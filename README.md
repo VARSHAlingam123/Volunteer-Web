@@ -1,6 +1,5 @@
 # VolunteerMatch - Community Volunteering Platform
 
-![VolunteerMatch Banner](./assets/banner.png)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
